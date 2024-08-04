@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Sou a Ellen!</h1>
-<h3 align="center">Cursando o 5° semestre de Sistemas da Informação na FIAP</h3>
+<h3 align="center">Cursando o 6° semestre de Sistemas da Informação na FIAP</h3>
 
 - 🔭 Estou buscando estágio na **área de tecnologia**
 
