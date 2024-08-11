@@ -2,6 +2,7 @@
 <h3 align="center">Cursando o 6° semestre de Sistemas da Informação na FIAP</h3>
 
 - 🔭 Estou buscando estágio na **área de tecnologia**
+- 🔭 Utilizo meu GitHub para projetos da faculdade, arquivos das aulas e projetos pessoais.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
