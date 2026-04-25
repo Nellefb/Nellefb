@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Sou a Ellen!</h1>
-<h3 align="center">Cursando o 6° semestre de Sistemas da Informação na FIAP</h3>
+<h3 align="center">Formada em Sistemas de Informação na FIAP</h3>
 
-- 🔭 Estou buscando estágio na **área de tecnologia**
+- 🔭 QA Júnior
 - 🔭 Utilizo meu GitHub para projetos da faculdade, arquivos das aulas e projetos pessoais.
 
 <h3 align="left">Connect with me:</h3>
